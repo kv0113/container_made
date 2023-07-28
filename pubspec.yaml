@@ -1,7 +1,8 @@
 name: container_made
-description: A new Flutter project.
-version: 0.0.1
-homepage:
+description: it provide already made container where you can add two color as gradient color, title, subtitle.
+version: 0.0.2
+homepage: https://github.com/kv0113/container_made
+
 
 environment:
   sdk: '>=3.0.5 <4.0.0'
